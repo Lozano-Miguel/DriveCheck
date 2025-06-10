@@ -31,6 +31,25 @@ Para Alunos
     Acompanhamento de Progresso: Verificação do número de aulas necessárias para completar a formação.
     Gestão de Conta: Opção de alterar a palavra-passe para maior segurança.
 
+ Demonstração Online
+
+O projeto está disponível online para demonstração e testes. Podes aceder através do link abaixo e usar as seguintes credenciais para explorar as diferentes permissões de utilizador.
+
+Link: Acede aqui ao [DriveCheck](https://conducaojb.me/)! 👈
+Contas de Teste:
+
+    Perfil de Secretário(a):
+        Utilizador: secretario
+        Palavra-passe: 123
+
+    Perfil de Instrutor:
+        Utilizador: instrutor
+        Palavra-passe: 123
+
+    Perfil de Aluno:
+        Utilizador: aluno
+        Palavra-passe: 123
+
 🛠️ Tecnologias Utilizadas
 
 Para construir este projeto, foram utilizadas as seguintes tecnologias:
